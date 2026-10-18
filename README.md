@@ -37,3 +37,6 @@ Using Power BI dashboards and KPI analysis, I identified opportunities to improv
 
 Leverage data visualization and KPI monitoring to identify performance gaps, improve delivery reliability, optimize logistics, and enable data-driven supply chain decisions.
 
+<img width="1085" height="598" alt="Supply-chain-powerbi-dashboard" src="https://github.com/user-attachments/assets/3f53a4d2-0cba-4d9d-8c77-29a7f837842a" />
+
+
